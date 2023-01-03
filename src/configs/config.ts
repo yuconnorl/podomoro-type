@@ -6,7 +6,7 @@ export const PANEL_TYPE = {
 
 export const TIME_PERIOD = {
   [PANEL_TYPE.PODOMORO]: 30 * 60,
-  [PANEL_TYPE.SHORT_BREAK]: 5 * 60,
+  [PANEL_TYPE.SHORT_BREAK]: 1 * 5,
   [PANEL_TYPE.LONG_BREAK]: 15 * 60,
 }
 

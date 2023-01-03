@@ -6,11 +6,16 @@ const useCountdown = () => {
   const mode = useModeStore()
   const localSecond = ref<number>(mode.second)
   const intervalID = ref<number>()
+  const { stopTimer } = useModeStore()
 
   const startCountdown = () => {
     intervalID.value = setInterval(() => {
-      console.log(localSecond.value)
       localSecond.value = localSecond.value - 1
+      if (localSecond.value === 0) {
+        window.alert('time out')
+        stopCountdownNResetTime()
+        stopTimer()
+      }
     }, 1000)
   }
 

@@ -1,14 +1,22 @@
-<script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
-</script>
-
 <template>
   <header>
-    <nav>
-      <RouterLink to="/">Home</RouterLink>
+    <nav class="nav">
+      <RouterLink to="/">Podomoro</RouterLink>
       <RouterLink to="/about">About</RouterLink>
+      <RouterLink to="/form">Form</RouterLink>
     </nav>
   </header>
   <RouterView />
 </template>
-<style scoped></style>
+
+<script setup lang="ts">
+import { RouterLink, RouterView } from 'vue-router'
+</script>
+
+<style scoped>
+.nav {
+  width: 100%;
+  display: flex;
+  gap: 30px;
+}
+</style>

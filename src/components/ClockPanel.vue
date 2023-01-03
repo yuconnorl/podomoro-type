@@ -30,11 +30,8 @@ import timer from '@/utlis/timer'
 
 const { startCountdown, stopCountdown, localSecond, stopCountdownNResetTime } =
   useCountdown()
-
 const mode = useModeStore()
-
 const { switchMode, toggleTimerActive, stopTimer } = useModeStore()
-
 const { prompt, isTimerActive } = storeToRefs(mode)
 const panelList = Object.values(PANEL_TYPE)
 
