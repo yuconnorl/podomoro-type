@@ -1,18 +1,13 @@
 <template>
-  <div class="wrapper">
-    <ClockPanel />
-  </div>
+  <div> homeview </div>
+  <Suspense>
+    <PixiCanvas />
+    <template #fallback> Loading... </template>
+  </Suspense>
 </template>
 
 <script setup lang="ts">
-import ClockPanel from '@/components/ClockPanel.vue'
+import PixiCanvas from '@/components/PixiCanvas.vue'
 </script>
 
-<style lang="scss" scoped>
-.wrapper {
-  max-width: 620px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-</style>
+<style scoped></style>

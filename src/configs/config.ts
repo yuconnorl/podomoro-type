@@ -1,20 +1,24 @@
-export const PANEL_TYPE = {
-  PODOMORO: 'Podomoro',
-  SHORT_BREAK: 'Short Break',
-  LONG_BREAK: 'Long Break',
+// 動畫類型
+export const ANIMATION_NAME = {
+  NUKE_S: 'nuke_s',
+  NUKE_M: 'nuke_m',
+  NUKE_L: 'nuke_l',
+  NUKE_XL: 'nuke_xl',
+  RED_ENVELOPE: 'red_envelope',
+  SILVER_ENVELOPE: 'silver_envelope',
+  GOLD_ENVELOPE: 'gold_envelope',
 }
 
-export const TIME_PERIOD = {
-  [PANEL_TYPE.PODOMORO]: 30 * 60,
-  [PANEL_TYPE.SHORT_BREAK]: 1 * 5,
-  [PANEL_TYPE.LONG_BREAK]: 15 * 60,
+// 禮包種類
+export const REWARD_TYPE = {
+  GOLD: 'gold',
+  SILVER: 'silver',
+  RED: 'red',
 }
 
-export const PROMPT = {
-  [PANEL_TYPE.PODOMORO]: 'Time to focus!',
-  [PANEL_TYPE.SHORT_BREAK]: 'Time for a short break!',
-  [PANEL_TYPE.LONG_BREAK]: 'Time for a long break!',
+export const STORAGE_KEY = {
+  TOKEN: 'token', // authorization
+  LANGUAGE: 'language', // 語系
 }
 
-export const confirmMessage: string =
-  'The timer is still running, are you sure you want to switch?'
+export const IS_DEV = process.env.NODE_ENV === 'development'

@@ -1,0 +1,97 @@
+{
+  "frames": {
+    "gold_envelope_1.png": {
+      "frame": { "x": 1542, "y": 2, "w": 173, "h": 165 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 112, "y": 121, "w": 173, "h": 165 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_10.png": {
+      "frame": { "x": 677, "y": 2, "w": 333, "h": 320 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 31, "y": 45, "w": 333, "h": 320 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_11.png": {
+      "frame": { "x": 2, "y": 2, "w": 343, "h": 329 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 26, "y": 41, "w": 343, "h": 329 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_12.png": {
+      "frame": { "x": 1012, "y": 2, "w": 333, "h": 320 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 31, "y": 45, "w": 333, "h": 320 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_2.png": {
+      "frame": { "x": 1012, "y": 2, "w": 333, "h": 320 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 31, "y": 45, "w": 333, "h": 320 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_3.png": {
+      "frame": { "x": 2, "y": 2, "w": 343, "h": 329 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 26, "y": 41, "w": 343, "h": 329 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_4.png": {
+      "frame": { "x": 677, "y": 2, "w": 333, "h": 320 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 31, "y": 45, "w": 333, "h": 320 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_5.png": {
+      "frame": { "x": 347, "y": 2, "w": 328, "h": 321 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 33, "y": 42, "w": 328, "h": 321 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_6.png": {
+      "frame": { "x": 1012, "y": 2, "w": 333, "h": 320 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 31, "y": 45, "w": 333, "h": 320 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_7.png": {
+      "frame": { "x": 1347, "y": 2, "w": 193, "h": 178 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 103, "y": 118, "w": 193, "h": 178 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_8.png": {
+      "frame": { "x": 1012, "y": 2, "w": 333, "h": 320 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 31, "y": 45, "w": 333, "h": 320 },
+      "sourceSize": { "w": 400, "h": 400 }
+    },
+    "gold_envelope_9.png": {
+      "frame": { "x": 347, "y": 2, "w": 328, "h": 321 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 33, "y": 42, "w": 328, "h": 321 },
+      "sourceSize": { "w": 400, "h": 400 }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "gold_envelope.png",
+    "format": "RGBA8888",
+    "size": { "w": 1717, "h": 333 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:550e7b368d44314919ad6364e64595e5:be76c4302075fc3652aad36b46f235a0:0cf0d9fc921e15c9e03766aa33f67de6$"
+  }
+}

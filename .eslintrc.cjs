@@ -3,19 +3,20 @@ require('@rushstack/eslint-patch/modern-module-resolution')
 
 module.exports = {
   root: true,
-  'extends': [
+  extends: [
     'plugin:vue/vue3-essential',
     'eslint:recommended',
     '@vue/eslint-config-typescript',
-    '@vue/eslint-config-prettier'
+    '@vue/eslint-config-prettier',
   ],
   plugins: ['simple-import-sort'],
   parserOptions: {
-    ecmaVersion: 'latest'
+    ecmaVersion: 'latest',
   },
   rules: {
     'no-unused-vars': 1,
     'simple-import-sort/imports': 'error',
     'simple-import-sort/exports': 'error',
+    'vue/multi-word-component-names': 'off',
   },
 }

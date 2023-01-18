@@ -1,0 +1,132 @@
+{
+  "frames": {
+    "nuke_m_1.png": {
+      "frame": { "x": 421, "y": 127, "w": 78, "h": 78 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 65, "y": 65, "w": 78, "h": 78 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_2.png": {
+      "frame": { "x": 347, "y": 565, "w": 154, "h": 154 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 27, "y": 27, "w": 154, "h": 154 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_3.png": {
+      "frame": { "x": 1, "y": 789, "w": 170, "h": 170 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 19, "y": 19, "w": 170, "h": 170 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_4.png": {
+      "frame": { "x": 1, "y": 1, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_5.png": {
+      "frame": { "x": 1, "y": 211, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_6.png": {
+      "frame": { "x": 211, "y": 1, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_7.png": {
+      "frame": { "x": 1, "y": 421, "w": 186, "h": 186 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 11, "y": 11, "w": 186, "h": 186 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_8.png": {
+      "frame": { "x": 211, "y": 211, "w": 184, "h": 184 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 12, "y": 12, "w": 184, "h": 184 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_9.png": {
+      "frame": { "x": 1, "y": 609, "w": 178, "h": 178 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 15, "y": 15, "w": 178, "h": 178 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_10.png": {
+      "frame": { "x": 189, "y": 421, "w": 134, "h": 170 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 36, "y": 18, "w": 134, "h": 170 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_11.png": {
+      "frame": { "x": 334, "y": 876, "w": 140, "h": 140 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 33, "y": 34, "w": 140, "h": 140 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_12.png": {
+      "frame": { "x": 181, "y": 770, "w": 151, "h": 147 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 26, "y": 30, "w": 151, "h": 147 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_13.png": {
+      "frame": { "x": 347, "y": 721, "w": 159, "h": 153 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 20, "y": 26, "w": 159, "h": 153 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_14.png": {
+      "frame": { "x": 181, "y": 609, "w": 164, "h": 159 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 13, "y": 21, "w": 164, "h": 159 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_15.png": {
+      "frame": { "x": 397, "y": 211, "w": 96, "h": 164 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 61, "y": 17, "w": 96, "h": 164 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_16.png": {
+      "frame": { "x": 325, "y": 397, "w": 97, "h": 166 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 61, "y": 15, "w": 97, "h": 166 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "nuke_m_17.png": {
+      "frame": { "x": 421, "y": 1, "w": 86, "h": 124 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 68, "y": 52, "w": 86, "h": 124 },
+      "sourceSize": { "w": 208, "h": 208 }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "nuke_m.png",
+    "format": "RGBA8888",
+    "size": { "w": 508, "h": 1017 },
+    "scale": "0.41667",
+    "smartupdate": "$TexturePacker:SmartUpdate:7c75ccdb152893a1576fe05b88df32eb:15c09b250ed31cfe88c3c85c1552bfae:881ccb67ce0eef6a1872a7b2a5ac3a11$"
+  }
+}
